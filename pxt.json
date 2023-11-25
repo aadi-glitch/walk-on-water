@@ -1,5 +1,6 @@
 {
     "name": "walk on water",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
